@@ -175,5 +175,6 @@ DEBIAN_PACKAGES="\
   zlib1g-dev"
 
 DEBIAN_PACKAGES_X86="libquadmath0"
+DEBIAN_PACKAGES_AMD64=""
 
 . ${SCRIPT_DIR}/sysroot-creator.sh
